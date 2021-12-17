@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:804b6be1e8e6b5df2cdd83acefea6d21e59b3651eee18be6d7c230ca19acfd07
-size 73
+Sensor_Positions_2.0
+Sensor#	Time	X	Y	Z
+1	4	13.5681	20.6895	12.563	
+

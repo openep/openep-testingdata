@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bc86d1074f336ef86ec4d287707f32a76680ac41a8929e0c6d75e447a8f3064
-size 1452
+                        CurrentPresetId=                                       1                                       
+             isMultiConfigurationLocked=                                       1                                       
+                   siteTagsColoringType=                                       1                                       
+                     enableGridColoring=                                       0                                       
+                  enableSiteTagColoring=                                       1                                       
+                     gridProjectionType=                                       0                                       
+                               showGrid=                                       0                                       
+                         showProjection=                                       0                                       
+                           showSiteTags=                                       0                                       
+                 showSiteTagsProjection=                                       1                                       
+                         projectionSize=                                   1.000                                       
+                            siteTagSize=                                   1.000                                       

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5518325ebe6369fe85bdc3716571aeb27305e2c14ab25ba056840e44b37d995
-size 176
+Eleclectrode_Positions_2.0
+Electrode#	Time	X	Y	Z
+1	-7	13.5144	20.1775	12.5529	
+2	-7	13.3312	17.5035	12.8786	
+3	-7	12.9411	11.8088	13.5722	
+4	-7	12.8054	9.8281	13.8135	
+

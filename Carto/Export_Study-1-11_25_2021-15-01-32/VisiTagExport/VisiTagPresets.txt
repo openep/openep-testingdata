@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a2057797e3ed5b441148ebe850d813ea0027581e58fda72a024e2c5d5e95ed0
-size 4682
+                               PresetId=                                       1                                       
+                            PresetName=                                      ANT                                       
+             useRespirationCompensation=                                       1                                       
+       isLocationStabilityFilterEnabled=                                       1                                       
+                            isAvaialble=                                       1                                       
+             locationStabilityThreshold=                                   2.500                                       
+           minimalAblationTimeThreshold=                                       3                                       
+           isImpedanceDropFilterEnabled=                                       0                                       
+                 impedanceDropThreshold=                                      -1                                       
+            isContactForceFilterEnabled=                                       1                                       
+           contactForcePercentThreshold=                                       5                                       
+   contactForceValueForPercentThreshold=                                       1                                       
+       isFPTIThresholdIndicationEnabled=                                       1                                       
+                       FPTIMinThreshold=                                 350.000                                       
+                       FPTIMaxThreshold=                                 400.000                                       
+                       FPTIFormulaGUID=     63BEA884-772E-47C0-BE35-B83986F861B6                                       
+             isTemperatureFilterEnabled=                                       0                                       
+                   temperatureThreshold=                                      -1                                       
+                     source of RF index=                    Internal Calculation                                       
+                                      
+
+                               PresetId=                                       2                                       
+                            PresetName=                                      PST                                       
+             useRespirationCompensation=                                       1                                       
+       isLocationStabilityFilterEnabled=                                       1                                       
+                            isAvaialble=                                       1                                       
+             locationStabilityThreshold=                                   2.500                                       
+           minimalAblationTimeThreshold=                                       3                                       
+           isImpedanceDropFilterEnabled=                                       0                                       
+                 impedanceDropThreshold=                                      -1                                       
+            isContactForceFilterEnabled=                                       1                                       
+           contactForcePercentThreshold=                                      25                                       
+   contactForceValueForPercentThreshold=                                       3                                       
+       isFPTIThresholdIndicationEnabled=                                       1                                       
+                       FPTIMinThreshold=                                 300.000                                       
+                       FPTIMaxThreshold=                                 350.000                                       
+                       FPTIFormulaGUID=     63BEA884-772E-47C0-BE35-B83986F861B6                                       
+             isTemperatureFilterEnabled=                                       0                                       
+                   temperatureThreshold=                                      -1                                       
+                     source of RF index=                    Internal Calculation                                       
+                                      
+
