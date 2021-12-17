@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<FPTI>
+    <Version></Version>
+    <Formulas>
+        <Formula>
+            <GUID>00000000-0000-0000-0000-000000000000</GUID>
+            <Name>None</Name>
+            <Type>0</Type>
+            <Coefficients>
+                <overallCoefficient>0.00</overallCoefficient>
+                <forceExponent>0.00</forceExponent>
+                <powerExponent>0.00</powerExponent>
+                <overallExponent>0.00</overallExponent>
+                <clampLowForceValueTo>0.00</clampLowForceValueTo>
+            </Coefficients>
+            <TechnicalLimits>
+                <minTechnicalForce>0.0</minTechnicalForce>
+                <maxTechnicalForce>0.0</maxTechnicalForce>
+                <minTechnicalPower>0.0</minTechnicalPower>
+                <maxTechnicalPower>0.0</maxTechnicalPower>
+                <minTechnicalDuration>0</minTechnicalDuration>
+                <maxTechnicalDuration>0</maxTechnicalDuration>
+                <maxAllowedGapOfPower>0</maxAllowedGapOfPower>
+                <maxAllowedGapOfForce>0</maxAllowedGapOfForce>
+            </TechnicalLimits>
+        </Formula>
+        <Formula>
+            <GUID>63BEA884-772E-47C0-BE35-B83986F861B6</GUID>
+            <Name># Tag Index</Name>
+            <Type>2</Type>
+            <Coefficients>
+                <overallCoefficient>975.00</overallCoefficient>
+                <forceExponent>0.68</forceExponent>
+                <powerExponent>1.63</powerExponent>
+                <overallExponent>0.35</overallExponent>
+                <clampLowForceValueTo>5.00</clampLowForceValueTo>
+            </Coefficients>
+            <TechnicalLimits>
+                <minTechnicalForce>0.0</minTechnicalForce>
+                <maxTechnicalForce>150.0</maxTechnicalForce>
+                <minTechnicalPower>0.0</minTechnicalPower>
+                <maxTechnicalPower>200.0</maxTechnicalPower>
+                <minTechnicalDuration>0</minTechnicalDuration>
+                <maxTechnicalDuration>300000</maxTechnicalDuration>
+                <maxAllowedGapOfPower>349</maxAllowedGapOfPower>
+                <maxAllowedGapOfForce>999</maxAllowedGapOfForce>
+            </TechnicalLimits>
+        </Formula>
+    </Formulas>
+</FPTI>
